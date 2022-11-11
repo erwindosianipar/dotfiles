@@ -1,0 +1,5 @@
+[user]
+	name = Erwindo Sianipar
+	email = erwindosianipar@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
